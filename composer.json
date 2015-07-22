@@ -1,0 +1,22 @@
+{
+  "name":"opensorceress/calendar",
+  "description":"forked from zabuto/calendar",
+  "license":"mit",
+  "require":{
+    "opensorceress/calendar":"1.2.1"
+  },
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "opensorceress/calendar",
+        "version": "1.2.1",
+        "source": {
+          "url": "https://github.com/zabuto/calendar.git",
+          "type": "git",
+          "reference": "1.2.1"
+        }
+      }
+    }
+  ]
+}
